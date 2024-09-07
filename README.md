@@ -1,3 +1,5 @@
+![logo](https://github.com/Parag-code/Parag-code/blob/main/images%20(1).jpeg)
+
 <h1 align="center">Hi 👋, I'm Parag Sharma</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
