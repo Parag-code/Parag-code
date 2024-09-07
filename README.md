@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parag-code&label=Profile%20views&color=0e75b6&style=flat" alt="parag-code" /> </p>
 
 - 🌱 I’m currently learning **Machine learning**
-
+ 
 - 💬 Ask me about **Python,Data science**
 
 - 📫 How to reach me **paragsharma602@gmail.com**
