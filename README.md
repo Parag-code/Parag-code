@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parag-code&label=Profile%20views&color=0e75b6&style=flat" alt="parag-code" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parag-code" alt="parag-code" /></a> </p>
-
 - 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Machine Learning**
@@ -16,7 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paragsharma11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paragsharma11" height="30" width="40" /></a>
+<a href="https://kaggle.com/parag0512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parag0512" height="30" width="40" /></a>
+<a href="https://instagram.com/parag_0512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parag_0512" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/22bcon422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="22bcon422" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/parag0512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parag0512" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parag-code&show_icons=true&locale=en" alt="parag-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parag-code&" alt="parag-code" /></p>
+
