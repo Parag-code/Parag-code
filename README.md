@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech Computer Science & Engineering (AI & ML)** student at **JECRC University**
+- 🎓 Final-year **B.Tech Computer Science & Engineering (AI & ML)** student at **JECRC University, Jaipur** (CGPA: 7.73)
 - 🛰️ Former **Project Intern at NRSC – ISRO**, working on AI-powered satellite observation analytics
 - 🤖 Former **AI Developer Intern at Team XML Technologies**
 - 🧠 Building solutions with **Generative AI, LLMs, RAG, AI Agents, LangChain, and LangGraph**
@@ -41,51 +41,46 @@
 
 ## 💼 Experience
 
-### 🛰️ Project Intern — NRSC, ISRO
-**Feb 2026 – Jun 2026 | Hyderabad, India**
+### 🛰️ Project Intern — National Remote Sensing Centre (NRSC), ISRO
+**Feb 2026 – Jun 2026 | Hyderabad, India (Onsite)**
 
-- Built a **Satellite Observation Analytics Platform** for NISAR mission operations
-- Developed a **MariaDB → PostgreSQL ETL pipeline** for large-scale operational data
-- Designed a two-phase ETL pipeline processing **100K+ records**
-- Implemented **blue-green table swap** and background threading for zero-downtime refresh
-- Built an **LLM-powered Natural Language to SQL assistant**
-- Used schema-aware prompting for intelligent satellite data querying
+- Built the **Satellite Observation Analytics Platform** for NISAR mission operations, featuring a **MariaDB → PostgreSQL ETL pipeline**, an **interactive dashboard**, and an **AI-powered natural-language query assistant**
+- Designed a **two-phase ETL pipeline** processing **100K+ records**, with **blue-green table swap** and background threading for zero-downtime data refresh
+- Implemented an **LLM-based text-to-SQL service** with schema-aware prompting for natural-language data querying
+- Received a **Letter of Recommendation** from NRSC, ISRO for the work
 
 ### 🤖 AI Developer Intern — Team XML Technologies
-**Jul 2025 – Jan 2026 | Jaipur, India**
+**Jul 2025 – Jan 2026 | Jaipur, India (Onsite)**
 
-- Built **Voyaira**, a multi-agent AI travel planning assistant
-- Developed an **LLM-based intent-classifier router** for specialized AI agent chains
-- Built agents for **flights, hotels, itineraries, visas, and travel packages**
-- Implemented **RAG-based semantic search** using FAISS and embeddings
-- Integrated live flight and hotel APIs
-- Added cross-agent conversational memory for multi-turn interactions
+- Built **Voyaira**, a multi-agent travel planning assistant using **LangChain** and **GPT-4o-mini**
+- Developed an **LLM-based intent-classifier router** dispatching queries to specialized agent chains for **flight, hotel, itinerary, visa, and package search**
+- Implemented **RAG-based semantic search** with **FAISS** vector stores (semantic, itinerary, and visa indices) and **OpenAI embeddings** for contextual travel recommendations
+- Integrated **ASAPFly** and **Hotelbeds** APIs for live flight, hotel, and combined-package search with budget/date/preference filtering
+- Added **cross-agent conversational memory** for multi-turn context retention
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ✈️ AeroMate — Automated Flight Booking System
+*Dec 2025*
 
 **Tech Stack:** Flask, LangChain, Groq LLM, REST APIs, PDF Generation
 
-- Built an autonomous conversational flight-booking agent
-- Searches, filters, and books flights end-to-end
-- Selects the cheapest direct flight within the user's budget
-- Handles no-flight and out-of-budget scenarios
-- Generates professional invoice PDFs automatically
-- Emails booking confirmation and invoice details
+- Built an autonomous conversational flight-booking agent (LangChain + Groq-hosted LLM) that searches, filters, and books flights end-to-end
+- Designed a budget-filtering pipeline that selects the cheapest direct flight, with fallback handling for no-flight and out-of-budget scenarios
+- Generates and emails professional invoice PDFs with booking reference, flight details, and fare breakdown
 
 ### 🌾 KrishiMitra — India's Smart Kheti Assistant
+*Oct 2025*
 
 **Tech Stack:** Generative AI, LangChain, Groq Models, LLMs, Flask, Streamlit
 
-- Built AI advisory chains for crop selection and fertilizer planning
-- Added crop disease assistance and irrigation optimization
-- Integrated soil, crop, and weather data into LLM pipelines
-- Developed a Flask backend with a Streamlit frontend
-- Provides real-time AI-powered farming recommendations
+- Built AI advisory chains for crop selection, fertilizer planning, disease detection, and irrigation optimization
+- Integrated LangChain-based LLM pipelines using soil, crop, and weather data
+- Developed a Flask backend with a Streamlit frontend for real-time farming recommendations
 
+---
 
 ## 🧠 AI / ML Expertise
 
@@ -133,12 +128,19 @@
 
 ---
 
+## 🎓 Education
+
+- **JECRC University**, Jaipur, Rajasthan — B.Tech, Computer Science & Engineering (AI & ML) *(2022 – 2026)*, CGPA: **7.73**
+- **Swami Keshwanand Convent School**, Sikar, Rajasthan — Senior Secondary Education (PCM) *(2020 – 2021)*, **85.2%**
+
+---
+
 ## 🏆 Certifications & Achievements
 
-- 🛰️ **Letter of Recommendation — NRSC, ISRO**
-- 🟢 **Applications of AI for Anomaly Detection — NVIDIA**
-- 🔵 **Machine Learning with Python — IBM**
-- 🔵 **Deep Learning with TensorFlow — IBM**
+- 🛰️ **Letter of Recommendation — NRSC, ISRO** *(Jun 2026)*
+- 🟢 **Applications of AI for Anomaly Detection — NVIDIA** *(Aug 2025)*
+- 🔵 **Machine Learning with Python — IBM** *(May 2025)*
+- 🔵 **Deep Learning with TensorFlow — IBM** *(Jun 2024)*
 
 ---
 
