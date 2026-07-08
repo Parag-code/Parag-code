@@ -86,17 +86,6 @@
 - Developed a Flask backend with a Streamlit frontend
 - Provides real-time AI-powered farming recommendations
 
-### 🛰️ Satellite Observation Analytics Platform
-
-**Tech Stack:** Python, Flask, PostgreSQL, MariaDB, LLMs, Text-to-SQL, ETL
-
-- Built for satellite observation analytics during my NRSC–ISRO internship
-- Designed ETL workflows for operational data processing
-- Implemented interactive analytics and dashboard workflows
-- Built a schema-aware Natural Language to SQL assistant
-- Enabled natural-language querying of structured satellite data
-
----
 
 ## 🧠 AI / ML Expertise
 
