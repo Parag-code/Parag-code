@@ -186,4 +186,3 @@
 ⭐ **Open to AI/ML, Generative AI, LLM, RAG, and AI Agent opportunities**
 
 </div>
-'''
