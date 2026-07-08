@@ -1,7 +1,3 @@
-import pypandoc
-
-content = r'''<div align="center">
-
 # Hi 👋, I'm Parag Sharma
 
 ### AI/ML Developer | Generative AI | LLMs | RAG | AI Agents
@@ -202,7 +198,3 @@ content = r'''<div align="center">
 
 </div>
 '''
-
-out = "/mnt/data/README.md"
-pypandoc.convert_text(content, 'md', format='md', outputfile=out, extra_args=['--standalone'])
-out
