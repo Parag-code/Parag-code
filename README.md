@@ -3,8 +3,7 @@
 ### AI/ML Developer | Generative AI | LLMs | RAG | AI Agents
 
 <p>
-  Final-year B.Tech CSE (AI & ML) student passionate about building scalable,
-  intelligent, and production-oriented AI systems.
+  B.Tech CSE (AI & ML) graduate passionate about building scalable, intelligent, and production-ready AI systems.
 </p>
 
 <p>
@@ -27,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech Computer Science & Engineering (AI & ML)** student at **JECRC University, Jaipur** (CGPA: 7.73)
+- 🎓 B.Tech Computer Science & Engineering (AI & ML) graduate from JECRC University, Jaipur (CGPA: 7.9).
 - 🛰️ Former **Project Intern at NRSC – ISRO**, working on AI-powered satellite observation analytics
 - 🤖 Former **AI Developer Intern at Team XML Technologies**
 - 🧠 Building solutions with **Generative AI, LLMs, RAG, AI Agents, LangChain, and LangGraph**
@@ -130,7 +129,7 @@
 
 ## 🎓 Education
 
-- **JECRC University**, Jaipur, Rajasthan — B.Tech, Computer Science & Engineering (AI & ML) *(2022 – 2026)*, CGPA: **7.73**
+- **JECRC University**, Jaipur, Rajasthan — B.Tech, Computer Science & Engineering (AI & ML) *(2022 – 2026)*, CGPA: **7.9**
 - **Swami Keshwanand Convent School**, Sikar, Rajasthan — Senior Secondary Education (PCM) *(2020 – 2021)*, **85.2%**
 
 ---
