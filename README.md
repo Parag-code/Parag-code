@@ -64,19 +64,19 @@
 ### ✈️ AeroMate — Automated Flight Booking System
 *Dec 2025*
 
-**Tech Stack:** Flask, LangChain, Groq LLM, REST APIs, PDF Generation
+**Tech Stack:** Flask, Automation, REST APIs, PDF Generation
 
-- Built an autonomous conversational flight-booking agent (LangChain + Groq-hosted LLM) that searches, filters, and books flights end-to-end
+- Built an autonomous conversational flight-booking agent that searches, filters, and books flights end-to-end
 - Designed a budget-filtering pipeline that selects the cheapest direct flight, with fallback handling for no-flight and out-of-budget scenarios
 - Generates and emails professional invoice PDFs with booking reference, flight details, and fare breakdown
 
 ### 🌾 KrishiMitra — India's Smart Kheti Assistant
 *Oct 2025*
 
-**Tech Stack:** Generative AI, LangChain, Groq Models, LLMs, Flask, Streamlit
+**Tech Stack:** Generative AI, Groq Models, LLMs, Flask, Streamlit
 
 - Built AI advisory chains for crop selection, fertilizer planning, disease detection, and irrigation optimization
-- Integrated LangChain-based LLM pipelines using soil, crop, and weather data
+- Integrated LLM-based pipelines using soil, crop, and weather data
 - Developed a Flask backend with a Streamlit frontend for real-time farming recommendations
 
 ---
