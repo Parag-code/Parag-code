@@ -66,7 +66,7 @@
 
 **Tech Stack:** Flask, Automation, REST APIs, PDF Generation
 
-- Built an autonomous conversational flight-booking agent that searches, filters, and books flights end-to-end
+- Built an autonomous flight-booking agent that searches, filters, and books flights end-to-end
 - Designed a budget-filtering pipeline that selects the cheapest direct flight, with fallback handling for no-flight and out-of-budget scenarios
 - Generates and emails professional invoice PDFs with booking reference, flight details, and fare breakdown
 
