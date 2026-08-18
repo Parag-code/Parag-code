@@ -1,9 +1,9 @@
 # Hi 👋, I'm Parag Sharma
 
-### AI/ML Developer | Generative AI | LLMs | RAG | AI Agents
+### AI/ML Engineer | Generative AI | LLMs | RAG | Agentic AI
 
 <p>
-  B.Tech CSE (AI & ML) graduate passionate about building scalable, intelligent, and production-ready AI systems.
+  B.Tech CSE (AI & ML) graduate focused on building intelligent, scalable, and production-oriented AI systems using LLMs, RAG, and agentic workflows.
 </p>
 
 <p>
@@ -20,130 +20,155 @@
 
 <img src="https://komarev.com/ghpvc/?username=parag-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-</div>
-
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering (AI & ML) graduate from JECRC University, Jaipur (CGPA: 7.9).
-- 🛰️ Former **Project Intern at NRSC – ISRO**, working on AI-powered satellite observation analytics
-- 🤖 Former **AI Developer Intern at Team XML Technologies**
-- 🧠 Building solutions with **Generative AI, LLMs, RAG, AI Agents, LangChain, and LangGraph**
-- 🔍 Experienced in **Natural Language to SQL**, schema-aware LLM prompting, and AI-powered analytics
-- ⚙️ Interested in scalable **LLM-powered, agentic, and production-oriented AI systems**
-- 💬 Ask me about **Machine Learning, Generative AI, LLMs, RAG, NLP, and AI Agents**
+- 🎓 B.Tech Computer Science & Engineering (AI & ML) graduate from JECRC University.
+- 🛰️ Former Project Intern at **NRSC – ISRO**, working on AI-powered satellite analytics and LLM-based Text-to-SQL.
+- 🤖 Former AI Developer Intern at **Team XML Technologies**, building multi-agent AI and RAG applications.
+- 🧠 Experienced in **Generative AI, LLMs, RAG, LangChain, LangGraph, and Agentic AI**.
+- 🔍 Experienced in **Natural Language to SQL, schema-aware prompting, vector search, and multi-agent workflows**.
+- ⚙️ Hands-on experience integrating **LLMs, APIs, databases, external tools, and AI models** into real-world applications.
+- 💬 Ask me about **Python, Machine Learning, Generative AI, LLMs, RAG, NLP, LangChain, LangGraph, and AI Agents**.
 - 📫 Reach me at **paragsharma602@gmail.com**
-- 🌐 Portfolio: **https://parag0512.netlify.app**
 
 ---
 
 ## 💼 Experience
 
 ### 🛰️ Project Intern — National Remote Sensing Centre (NRSC), ISRO
-**Feb 2026 – Jun 2026 | Hyderabad, India (Onsite)**
 
-- Built the **Satellite Observation Analytics Platform** for NISAR mission operations, featuring a **MariaDB → PostgreSQL ETL pipeline**, an **interactive dashboard**, and an **AI-powered natural-language query assistant**
-- Designed a **two-phase ETL pipeline** processing **100K+ records**, with **blue-green table swap** and background threading for zero-downtime data refresh
-- Implemented an **LLM-based text-to-SQL service** with schema-aware prompting for natural-language data querying
-- Received a **Letter of Recommendation** from NRSC, ISRO for the work
+**Feb 2026 – Jun 2026 | Hyderabad, India**
+
+- Built an AI-powered **Satellite Observation Analytics Platform** for NISAR mission operations.
+- Developed a **MariaDB → PostgreSQL ETL pipeline** processing 100K+ records with blue-green table swapping for reliable data refresh.
+- Implemented an **LLM-powered Text-to-SQL system** with schema-aware prompting for natural-language analytics queries.
+- Integrated Python, Flask, PostgreSQL, Docker, ETL pipelines, dashboards, and local LLM inference.
 
 ### 🤖 AI Developer Intern — Team XML Technologies
-**Jul 2025 – Jan 2026 | Jaipur, India (Onsite)**
 
-- Built **Voyaira**, a multi-agent travel planning assistant using **LangChain** and **GPT-4o-mini**
-- Developed an **LLM-based intent-classifier router** dispatching queries to specialized agent chains for **flight, hotel, itinerary, visa, and package search**
-- Implemented **RAG-based semantic search** with **FAISS** vector stores (semantic, itinerary, and visa indices) and **OpenAI embeddings** for contextual travel recommendations
-- Integrated **ASAPFly** and **Hotelbeds** APIs for live flight, hotel, and combined-package search with budget/date/preference filtering
-- Added **cross-agent conversational memory** for multi-turn context retention
+**Jul 2025 – Jan 2026 | Jaipur, India**
 
----
-
-## 🚀 Featured Projects
-
-### ✈️ AeroMate — Automated Flight Booking System
-*Dec 2025*
-
-**Tech Stack:** Flask, Automation, REST APIs, PDF Generation
-
-- Built an autonomous flight-booking agent that searches, filters, and books flights end-to-end
-- Designed a budget-filtering pipeline that selects the cheapest direct flight, with fallback handling for no-flight and out-of-budget scenarios
-- Generates and emails professional invoice PDFs with booking reference, flight details, and fare breakdown
-
-### 🌾 KrishiMitra — India's Smart Kheti Assistant
-*Oct 2025*
-
-**Tech Stack:** Generative AI, Groq Models, LLMs, Flask, Streamlit
-
-- Built AI advisory chains for crop selection, fertilizer planning, disease detection, and irrigation optimization
-- Integrated LLM-based pipelines using soil, crop, and weather data
-- Developed a Flask backend with a Streamlit frontend for real-time farming recommendations
+- Built **Voyaira**, a multi-agent AI travel assistant using LangChain and GPT-4o-mini.
+- Developed intent-based routing for flight, hotel, itinerary, visa, and package search workflows.
+- Built RAG pipelines using **FAISS and OpenAI Embeddings** for semantic travel and visa assistance.
+- Integrated external flight and hotel APIs with conversational memory and preference-based filtering.
 
 ---
 
-## 🧠 AI / ML Expertise
+# 🚀 Featured Projects
+
+## 🌾 KrishiMitra — Agentic AI Farming Assistant
+
+**Tech Stack:** Python, LangGraph, LangChain, Groq, GPT-OSS 120B, Flask, React, Hugging Face, PyTorch
+
+- Built a **multi-agent agricultural AI assistant** for crop recommendation, soil/fertilizer advice, irrigation planning, plant disease detection, and farmer Q&A.
+- Designed specialized agents with **LangGraph orchestration, live weather/soil data, structured outputs, and multi-intent processing**.
+- Integrated **Hugging Face MobileNetV2 + PyTorch** for plant disease detection and added **Human-in-the-Loop approval** for irrigation decisions.
+- Developed a Flask REST backend and React frontend for conversational farmer assistance in Hinglish.
+
+---
+
+## ✈️ AeroMate — AI Flight Booking Assistant
+
+**Tech Stack:** Python, Flask, REST APIs, Automation, PDF Generation
+
+- Built an automated flight-booking system that searches, filters, and books flights based on user requirements.
+- Implemented budget-based flight selection with fallback handling for unavailable and out-of-budget flights.
+- Automated invoice generation and email delivery with booking details and fare breakdown.
+
+---
+
+# 🧠 AI / ML Expertise
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-FF4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-5A29E4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-5A29E4?style=for-the-badge" />
+
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+# 🛠️ Languages & Tools
 
 <p align="left">
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
+
 </p>
 
-### AI & GenAI Stack
+---
+
+## 🤖 AI & GenAI Stack
 
 <p align="left">
+
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM%20Agents-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector%20Databases-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-FF4B4B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
 </p>
 
 ---
 
-## 🎓 Education
+# 🧰 Backend & Data
 
-- **JECRC University**, Jaipur, Rajasthan — B.Tech, Computer Science & Engineering (AI & ML) *(2022 – 2026)*, CGPA: **7.9**
-- **Swami Keshwanand Convent School**, Sikar, Rajasthan — Senior Secondary Education (PCM) *(2020 – 2021)*, **85.2%**
+- Python
+- Flask
+- REST APIs
+- PostgreSQL
+- MySQL / MariaDB
+- SQL
+- ETL Pipelines
+- Docker
+- Git / GitHub
+- Postman
 
 ---
 
-## 🏆 Certifications & Achievements
+# 🎓 Education
 
-- 🛰️ **Letter of Recommendation — NRSC, ISRO** *(Jun 2026)*
-- 🟢 **Applications of AI for Anomaly Detection — NVIDIA** *(Aug 2025)*
-- 🔵 **Machine Learning with Python — IBM** *(May 2025)*
-- 🔵 **Deep Learning with TensorFlow — IBM** *(Jun 2024)*
+### JECRC University — Jaipur, Rajasthan
+
+**B.Tech — Computer Science & Engineering (AI & ML)**  
+2022 – 2026 | CGPA: **7.9**
+
+### Swami Keshwanand Convent School — Sikar, Rajasthan
+
+**Senior Secondary Education — PCM**  
+2020 – 2021 | **85.2%**
 
 ---
 
-## 📊 GitHub Analytics
+# 🏆 Certifications & Achievements
+
+- 🛰️ **Letter of Recommendation — NRSC, ISRO** — Jun 2026
+- 🟢 **Applications of AI for Anomaly Detection — NVIDIA** — Aug 2025
+- 🔵 **Machine Learning with Python — IBM** — May 2025
+- 🔵 **Deep Learning with TensorFlow — IBM** — Jun 2024
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -153,21 +178,26 @@
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
+
 <a href="https://linkedin.com/in/paragsharma11">
   <img src="https://img.shields.io/badge/LinkedIn-Parag%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/Parag-code">
   <img src="https://img.shields.io/badge/GitHub-Parag--code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://kaggle.com/parag0512">
   <img src="https://img.shields.io/badge/Kaggle-parag0512-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
+
 <a href="https://www.leetcode.com/parag0512">
   <img src="https://img.shields.io/badge/LeetCode-parag0512-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
+
 </p>
 
 ---
@@ -176,6 +206,6 @@
 
 ### 💡 Building intelligent AI systems that turn ideas into real-world solutions.
 
-⭐ **Open to AI/ML, Generative AI, LLM, RAG, and AI Agent opportunities**
+**Open to AI/ML • Generative AI • LLM • RAG • Agentic AI opportunities**
 
 </div>
